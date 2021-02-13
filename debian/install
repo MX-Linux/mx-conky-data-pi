@@ -1,0 +1,2 @@
+MX*  usr/share/mx-conky-data/themes
+conky-startup.sh /etc/skel/.conky/
